@@ -1,0 +1,31 @@
+body {
+	font-family: 'Noto Serif KR', sans-serif;
+}
+
+h1 {
+	font-size: 60px;
+	color: #d41c00;
+	text-align: center;
+}
+
+img {
+	display: block;
+	width: 50%;
+	height: auto;
+    /*margin-left: auto;
+    margin-right: auto;*/
+}
+
+ul {
+	border-left: 5px solid #d41c00;
+	list-style-type: none;
+	margin-left: 60px;
+	padding-left: 10px;
+}
+
+p, li {
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
+
